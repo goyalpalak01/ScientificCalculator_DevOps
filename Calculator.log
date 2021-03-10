@@ -1,0 +1,67 @@
+12:01:25.241 [ScientificCalculator.java] INFO  ScientificCalculator.ScientificCalculator - [NATURAL LOGARITHM] - 2.0
+12:01:25.244 [ScientificCalculator.java] INFO  ScientificCalculator.ScientificCalculator - [RESULT - LOGARITHM] - 0.6931471805599453
+12:01:25.245 [ScientificCalculator.java] INFO  ScientificCalculator.ScientificCalculator - [NATURAL LOGARITHM] - 0.0
+12:01:25.245 [ScientificCalculator.java] ERROR ScientificCalculator.ScientificCalculator - [ERROR - LOGARITHM] - Logarithm is undefined for negative numbers or zero
+12:01:25.246 [ScientificCalculator.java] INFO  ScientificCalculator.ScientificCalculator - [RESULT - LOGARITHM] - NaN
+12:01:25.246 [ScientificCalculator.java] INFO  ScientificCalculator.ScientificCalculator - [NATURAL LOGARITHM] - -8.0
+12:01:25.247 [ScientificCalculator.java] ERROR ScientificCalculator.ScientificCalculator - [ERROR - LOGARITHM] - Logarithm is undefined for negative numbers or zero
+12:01:25.247 [ScientificCalculator.java] INFO  ScientificCalculator.ScientificCalculator - [RESULT - LOGARITHM] - NaN
+12:01:25.248 [ScientificCalculator.java] INFO  ScientificCalculator.ScientificCalculator - [NATURAL LOGARITHM] - 3.0
+12:01:25.248 [ScientificCalculator.java] INFO  ScientificCalculator.ScientificCalculator - [RESULT - LOGARITHM] - 1.0986122886681098
+12:01:25.248 [ScientificCalculator.java] INFO  ScientificCalculator.ScientificCalculator - [NATURAL LOGARITHM] - 0.0
+12:01:25.249 [ScientificCalculator.java] ERROR ScientificCalculator.ScientificCalculator - [ERROR - LOGARITHM] - Logarithm is undefined for negative numbers or zero
+12:01:25.249 [ScientificCalculator.java] INFO  ScientificCalculator.ScientificCalculator - [RESULT - LOGARITHM] - NaN
+12:01:25.249 [ScientificCalculator.java] INFO  ScientificCalculator.ScientificCalculator - [NATURAL LOGARITHM] - -5.3
+12:01:25.249 [ScientificCalculator.java] ERROR ScientificCalculator.ScientificCalculator - [ERROR - LOGARITHM] - Logarithm is undefined for negative numbers or zero
+12:01:25.250 [ScientificCalculator.java] INFO  ScientificCalculator.ScientificCalculator - [RESULT - LOGARITHM] - NaN
+12:01:25.250 [ScientificCalculator.java] INFO  ScientificCalculator.ScientificCalculator - [SQUARE ROOT] - 400.0
+12:01:25.251 [ScientificCalculator.java] INFO  ScientificCalculator.ScientificCalculator - [RESULT - SQUARE ROOT] - 20.0
+12:01:25.251 [ScientificCalculator.java] INFO  ScientificCalculator.ScientificCalculator - [SQUARE ROOT] - 7.0
+12:01:25.251 [ScientificCalculator.java] INFO  ScientificCalculator.ScientificCalculator - [RESULT - SQUARE ROOT] - 2.6457513110645907
+12:01:25.251 [ScientificCalculator.java] INFO  ScientificCalculator.ScientificCalculator - [SQUARE ROOT] - 0.0
+12:01:25.251 [ScientificCalculator.java] INFO  ScientificCalculator.ScientificCalculator - [RESULT - SQUARE ROOT] - 0.0
+12:01:25.251 [ScientificCalculator.java] INFO  ScientificCalculator.ScientificCalculator - [SQUARE ROOT] - -5.0
+12:01:25.252 [ScientificCalculator.java] ERROR ScientificCalculator.ScientificCalculator - [ERROR - SQUARE ROOT] - Square Root is undefined here for negative numbers
+12:01:25.252 [ScientificCalculator.java] INFO  ScientificCalculator.ScientificCalculator - [RESULT - SQUARE ROOT] - NaN
+12:01:25.252 [ScientificCalculator.java] INFO  ScientificCalculator.ScientificCalculator - [SQUARE ROOT] - 400.0
+12:01:25.253 [ScientificCalculator.java] INFO  ScientificCalculator.ScientificCalculator - [RESULT - SQUARE ROOT] - 20.0
+12:01:25.253 [ScientificCalculator.java] INFO  ScientificCalculator.ScientificCalculator - [SQUARE ROOT] - 3.4
+12:01:25.253 [ScientificCalculator.java] INFO  ScientificCalculator.ScientificCalculator - [RESULT - SQUARE ROOT] - 1.8439088914585775
+12:01:25.253 [ScientificCalculator.java] INFO  ScientificCalculator.ScientificCalculator - [SQUARE ROOT] - -9.0
+12:01:25.253 [ScientificCalculator.java] ERROR ScientificCalculator.ScientificCalculator - [ERROR - SQUARE ROOT] - Square Root is undefined here for negative numbers
+12:01:25.254 [ScientificCalculator.java] INFO  ScientificCalculator.ScientificCalculator - [RESULT - SQUARE ROOT] - NaN
+12:01:25.254 [ScientificCalculator.java] INFO  ScientificCalculator.ScientificCalculator - [FACTORIAL] - 4
+12:01:25.254 [ScientificCalculator.java] INFO  ScientificCalculator.ScientificCalculator - [RESULT - FACTORIAL] - 24.0
+12:01:25.255 [ScientificCalculator.java] INFO  ScientificCalculator.ScientificCalculator - [FACTORIAL] - -20
+12:01:25.255 [ScientificCalculator.java] ERROR ScientificCalculator.ScientificCalculator - [ERROR - FACTORIAL] - Factorial is undefined for negative numbers
+12:01:25.255 [ScientificCalculator.java] INFO  ScientificCalculator.ScientificCalculator - [RESULT - FACTORIAL] - NaN
+12:01:25.255 [ScientificCalculator.java] INFO  ScientificCalculator.ScientificCalculator - [FACTORIAL] - 4
+12:01:25.256 [ScientificCalculator.java] INFO  ScientificCalculator.ScientificCalculator - [RESULT - FACTORIAL] - 24.0
+12:01:25.256 [ScientificCalculator.java] INFO  ScientificCalculator.ScientificCalculator - [FACTORIAL] - -20
+12:01:25.256 [ScientificCalculator.java] ERROR ScientificCalculator.ScientificCalculator - [ERROR - FACTORIAL] - Factorial is undefined for negative numbers
+12:01:25.256 [ScientificCalculator.java] INFO  ScientificCalculator.ScientificCalculator - [RESULT - FACTORIAL] - NaN
+12:01:25.257 [ScientificCalculator.java] INFO  ScientificCalculator.ScientificCalculator - [EXPONENTIATION] - 0.0 , 0.0
+12:01:25.257 [ScientificCalculator.java] ERROR ScientificCalculator.ScientificCalculator - [ERROR - EXPONENTIATION] - 0 power of 0 is undefined
+12:01:25.257 [ScientificCalculator.java] INFO  ScientificCalculator.ScientificCalculator - [RESULT - EXPONENTIATION] - NaN
+12:01:25.257 [ScientificCalculator.java] INFO  ScientificCalculator.ScientificCalculator - [EXPONENTIATION] - 3.0 , 4.0
+12:01:25.257 [ScientificCalculator.java] INFO  ScientificCalculator.ScientificCalculator - [RESULT - EXPONENTIATION] - 81.0
+12:01:25.258 [ScientificCalculator.java] INFO  ScientificCalculator.ScientificCalculator - [EXPONENTIATION] - 2.0 , -3.0
+12:01:25.258 [ScientificCalculator.java] INFO  ScientificCalculator.ScientificCalculator - [RESULT - EXPONENTIATION] - 0.125
+12:01:25.258 [ScientificCalculator.java] INFO  ScientificCalculator.ScientificCalculator - [EXPONENTIATION] - 0.0 , 0.0
+12:01:25.259 [ScientificCalculator.java] ERROR ScientificCalculator.ScientificCalculator - [ERROR - EXPONENTIATION] - 0 power of 0 is undefined
+12:01:25.259 [ScientificCalculator.java] INFO  ScientificCalculator.ScientificCalculator - [RESULT - EXPONENTIATION] - NaN
+12:01:25.259 [ScientificCalculator.java] INFO  ScientificCalculator.ScientificCalculator - [EXPONENTIATION] - 3.0 , 4.0
+12:01:25.259 [ScientificCalculator.java] INFO  ScientificCalculator.ScientificCalculator - [RESULT - EXPONENTIATION] - 81.0
+12:01:25.259 [ScientificCalculator.java] INFO  ScientificCalculator.ScientificCalculator - [EXPONENTIATION] - 3.0 , -4.0
+12:01:25.260 [ScientificCalculator.java] INFO  ScientificCalculator.ScientificCalculator - [RESULT - EXPONENTIATION] - 0.012345679012345678
+12:03:00.338 [ScientificCalculator.java] INFO  ScientificCalculator.ScientificCalculator - [FACTORIAL] - 4
+12:03:00.344 [ScientificCalculator.java] INFO  ScientificCalculator.ScientificCalculator - [RESULT - FACTORIAL] - 24.0
+12:03:39.191 [ScientificCalculator.java] INFO  ScientificCalculator.ScientificCalculator - [FACTORIAL] - -9
+12:03:39.191 [ScientificCalculator.java] ERROR ScientificCalculator.ScientificCalculator - [ERROR - FACTORIAL] - Factorial is undefined for negative numbers
+12:03:39.192 [ScientificCalculator.java] INFO  ScientificCalculator.ScientificCalculator - [RESULT - FACTORIAL] - NaN
+12:04:02.197 [ScientificCalculator.java] INFO  ScientificCalculator.ScientificCalculator - [EXPONENTIATION] - 0.0 , 0.0
+12:04:02.197 [ScientificCalculator.java] ERROR ScientificCalculator.ScientificCalculator - [ERROR - EXPONENTIATION] - 0 power of 0 is undefined
+12:04:02.197 [ScientificCalculator.java] INFO  ScientificCalculator.ScientificCalculator - [RESULT - EXPONENTIATION] - NaN
+12:04:18.348 [ScientificCalculator.java] INFO  ScientificCalculator.ScientificCalculator - [SQUARE ROOT] - 56.0
+12:04:18.348 [ScientificCalculator.java] INFO  ScientificCalculator.ScientificCalculator - [RESULT - SQUARE ROOT] - 7.483314773547883
+12:04:30.421 [ScientificCalculator.java] INFO  ScientificCalculator.ScientificCalculator - Exiting from Calculator program !! 
