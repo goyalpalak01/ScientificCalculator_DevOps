@@ -54,3 +54,10 @@
 11:26:45.134 [ScientificCalculator.java] INFO  ScientificCalculator.ScientificCalculator - [RESULT - EXPONENTIATION] - 81.0
 11:26:45.134 [ScientificCalculator.java] INFO  ScientificCalculator.ScientificCalculator - [EXPONENTIATION] - 3.0 , -4.0
 11:26:45.134 [ScientificCalculator.java] INFO  ScientificCalculator.ScientificCalculator - [RESULT - EXPONENTIATION] - 0.012345679012345678
+16:59:54.959 [ScientificCalculator.java] INFO  ScientificCalculator.ScientificCalculator - [FACTORIAL] - 0
+16:59:54.966 [ScientificCalculator.java] INFO  ScientificCalculator.ScientificCalculator - [RESULT - FACTORIAL] - 1.0
+17:39:50.326 [ScientificCalculator.java] INFO  ScientificCalculator.ScientificCalculator - [NATURAL LOGARITHM] - 5.3
+17:39:50.326 [ScientificCalculator.java] INFO  ScientificCalculator.ScientificCalculator - [RESULT - LOGARITHM] - 1.667706820558076
+17:44:45.418 [ScientificCalculator.java] INFO  ScientificCalculator.ScientificCalculator - [SQUARE ROOT] - 1.5
+17:44:45.419 [ScientificCalculator.java] INFO  ScientificCalculator.ScientificCalculator - [RESULT - SQUARE ROOT] - 1.224744871391589
+17:49:24.354 [ScientificCalculator.java] INFO  ScientificCalculator.ScientificCalculator - Exiting from Calculator program !! 
