@@ -1,0 +1,44 @@
+pipeline {
+    environment{
+        imageName = ""
+    }
+    agent any
+
+    stages {
+        stage('Git Cloning') {
+            steps {
+                git 'https://github.com/goyalpalak01/ScientificCalculator_DevOps'
+            }
+        }
+        stage('Maven Build Jar') {
+            steps {
+                script{
+                    sh 'mvn clean package'
+                }
+            }
+        }
+        stage('Build Docker Image') {
+            steps {
+                script{
+                    imageName = docker.build "palakgoyal01/calculator-devops:latest"
+                }
+            }
+        }
+        stage('Push Docker Image to Docker Hub') {
+            steps {
+                script{
+                    docker.withRegistry('', 'docker-hub-credentials'){
+                         imageName.push()
+                    }
+
+                }
+            }
+        }
+        stage('Ansible Pull Docker Image') {
+            steps {
+                  ansiblePlaybook becomeUser: null, colorized: true, disableHostKeyChecking: true, installation: 'Ansible', inventory: 'deployment/inventory', playbook: 'deployment/deploy-image.yml', sudoUser: null
+                }
+            }
+        }
+    }
+
