@@ -1,5 +1,3 @@
-11:27:18.609 [ScientificCalculator.java] INFO  ScientificCalculator.ScientificCalculator - [FACTORIAL] - 54
-11:27:18.615 [ScientificCalculator.java] INFO  ScientificCalculator.ScientificCalculator - [RESULT - FACTORIAL] - 2.308436973392413E71
-11:27:26.018 [ScientificCalculator.java] INFO  ScientificCalculator.ScientificCalculator - [NATURAL LOGARITHM] - 45.0
-11:27:26.018 [ScientificCalculator.java] INFO  ScientificCalculator.ScientificCalculator - [RESULT - LOGARITHM] - 3.8066624897703196
-11:27:30.430 [ScientificCalculator.java] INFO  ScientificCalculator.ScientificCalculator - Exiting from Calculator program !! 
+12/Mar/2021:01:55:37 540 [ScientificCalculator.java] [INFO] ScientificCalculator.ScientificCalculator [FACTORIAL] - 6
+12/Mar/2021:01:55:37 545 [ScientificCalculator.java] [INFO] ScientificCalculator.ScientificCalculator [RESULT - FACTORIAL] - 720.0
+12/Mar/2021:01:55:43 829 [ScientificCalculator.java] [INFO] ScientificCalculator.ScientificCalculator Exiting from Calculator program !! 
