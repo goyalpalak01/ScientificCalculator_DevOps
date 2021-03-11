@@ -3,6 +3,6 @@
   hosts: all
   tasks:
     - name: Pull docker image of Calculator
-      docker-image:
+      docker_image:
         name: palakgoyal01/calculator-devops
         source: pull
