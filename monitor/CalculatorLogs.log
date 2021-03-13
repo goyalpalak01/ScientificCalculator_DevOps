@@ -1,0 +1,249 @@
+[INFO] 13/Mar/2021:18:07:01 459 [calculateSqrt] [165] [SQUARE ROOT] - 7.0
+[INFO] 13/Mar/2021:18:07:01 462 [calculateSqrt] [174] [RESULT - SQUARE ROOT] - 2.6457513110645907
+[INFO] 13/Mar/2021:18:07:01 463 [calculateSqrt] [165] [SQUARE ROOT] - 0.0
+[INFO] 13/Mar/2021:18:07:01 463 [calculateSqrt] [174] [RESULT - SQUARE ROOT] - 0.0
+[INFO] 13/Mar/2021:18:07:01 463 [calculateSqrt] [165] [SQUARE ROOT] - 1.5
+[INFO] 13/Mar/2021:18:07:01 464 [calculateSqrt] [174] [RESULT - SQUARE ROOT] - 1.224744871391589
+[INFO] 13/Mar/2021:18:07:01 465 [calculateSqrt] [165] [SQUARE ROOT] - -9.0
+[ERROR] 13/Mar/2021:18:07:01 466 [calculateSqrt] [169] [ERROR - SQUARE ROOT] - Square Root is undefined here for negative numbers
+[INFO] 13/Mar/2021:18:07:01 466 [calculateSqrt] [174] [RESULT - SQUARE ROOT] - NaN
+[INFO] 13/Mar/2021:18:07:01 467 [calculateFactorial] [116] [FACTORIAL] - 4
+[INFO] 13/Mar/2021:18:07:01 467 [calculateFactorial] [130] [RESULT - FACTORIAL] - 24.0
+[INFO] 13/Mar/2021:18:07:01 468 [calculateFactorial] [116] [FACTORIAL] - 0
+[INFO] 13/Mar/2021:18:07:01 468 [calculateFactorial] [130] [RESULT - FACTORIAL] - 1.0
+[INFO] 13/Mar/2021:18:07:01 469 [calculateFactorial] [116] [FACTORIAL] - -20
+[ERROR] 13/Mar/2021:18:07:01 469 [calculateFactorial] [121] [ERROR - FACTORIAL] - Factorial is undefined for negative numbers
+[INFO] 13/Mar/2021:18:07:01 469 [calculateFactorial] [130] [RESULT - FACTORIAL] - NaN
+[INFO] 13/Mar/2021:18:07:01 470 [calculateFactorial] [116] [FACTORIAL] - 4
+[INFO] 13/Mar/2021:18:07:01 470 [calculateFactorial] [130] [RESULT - FACTORIAL] - 24.0
+[INFO] 13/Mar/2021:18:07:01 470 [calculateFactorial] [116] [FACTORIAL] - 0
+[INFO] 13/Mar/2021:18:07:01 470 [calculateFactorial] [130] [RESULT - FACTORIAL] - 1.0
+[INFO] 13/Mar/2021:18:07:01 471 [calculateFactorial] [116] [FACTORIAL] - -20
+[ERROR] 13/Mar/2021:18:07:01 471 [calculateFactorial] [121] [ERROR - FACTORIAL] - Factorial is undefined for negative numbers
+[INFO] 13/Mar/2021:18:07:01 471 [calculateFactorial] [130] [RESULT - FACTORIAL] - NaN
+[INFO] 13/Mar/2021:18:07:01 471 [calculateLog] [150] [NATURAL LOGARITHM] - 2.0
+[INFO] 13/Mar/2021:18:07:01 472 [calculateLog] [160] [RESULT - LOGARITHM] - 0.6931471805599453
+[INFO] 13/Mar/2021:18:07:01 472 [calculateLog] [150] [NATURAL LOGARITHM] - 0.0
+[ERROR] 13/Mar/2021:18:07:01 473 [calculateLog] [155] [ERROR - LOGARITHM] - Logarithm is undefined for negative numbers or zero
+[INFO] 13/Mar/2021:18:07:01 473 [calculateLog] [160] [RESULT - LOGARITHM] - NaN
+[INFO] 13/Mar/2021:18:07:01 473 [calculateLog] [150] [NATURAL LOGARITHM] - -5.3
+[ERROR] 13/Mar/2021:18:07:01 474 [calculateLog] [155] [ERROR - LOGARITHM] - Logarithm is undefined for negative numbers or zero
+[INFO] 13/Mar/2021:18:07:01 474 [calculateLog] [160] [RESULT - LOGARITHM] - NaN
+[INFO] 13/Mar/2021:18:07:01 475 [calculateExp] [135] [EXPONENTIATION] - 3.0 , 4.0
+[INFO] 13/Mar/2021:18:07:01 475 [calculateExp] [145] [RESULT - EXPONENTIATION] - 81.0
+[INFO] 13/Mar/2021:18:07:01 475 [calculateExp] [135] [EXPONENTIATION] - 2.0 , -3.0
+[INFO] 13/Mar/2021:18:07:01 475 [calculateExp] [145] [RESULT - EXPONENTIATION] - 0.125
+[INFO] 13/Mar/2021:18:07:01 476 [calculateExp] [135] [EXPONENTIATION] - -2.0 , -2.0
+[INFO] 13/Mar/2021:18:07:01 476 [calculateExp] [145] [RESULT - EXPONENTIATION] - 0.25
+[INFO] 13/Mar/2021:18:07:01 477 [calculateExp] [135] [EXPONENTIATION] - 0.0 , 0.0
+[ERROR] 13/Mar/2021:18:07:01 477 [calculateExp] [140] [ERROR - EXPONENTIATION] - 0 power of 0 is undefined
+[INFO] 13/Mar/2021:18:07:01 478 [calculateExp] [145] [RESULT - EXPONENTIATION] - NaN
+[INFO] 13/Mar/2021:18:07:01 478 [calculateExp] [135] [EXPONENTIATION] - 3.0 , 4.0
+[INFO] 13/Mar/2021:18:07:01 478 [calculateExp] [145] [RESULT - EXPONENTIATION] - 81.0
+[INFO] 13/Mar/2021:18:07:01 479 [calculateExp] [135] [EXPONENTIATION] - 2.0 , -3.0
+[INFO] 13/Mar/2021:18:07:01 479 [calculateExp] [145] [RESULT - EXPONENTIATION] - 0.125
+[INFO] 13/Mar/2021:18:07:01 479 [calculateExp] [135] [EXPONENTIATION] - -2.0 , -2.0
+[INFO] 13/Mar/2021:18:07:01 480 [calculateExp] [145] [RESULT - EXPONENTIATION] - 0.25
+[INFO] 13/Mar/2021:18:07:01 480 [calculateLog] [150] [NATURAL LOGARITHM] - 2.0
+[INFO] 13/Mar/2021:18:07:01 481 [calculateLog] [160] [RESULT - LOGARITHM] - 0.6931471805599453
+[INFO] 13/Mar/2021:18:07:01 481 [calculateLog] [150] [NATURAL LOGARITHM] - 5.3
+[INFO] 13/Mar/2021:18:07:01 481 [calculateLog] [160] [RESULT - LOGARITHM] - 1.667706820558076
+[INFO] 13/Mar/2021:18:07:01 482 [calculateExp] [135] [EXPONENTIATION] - 0.0 , 0.0
+[ERROR] 13/Mar/2021:18:07:01 482 [calculateExp] [140] [ERROR - EXPONENTIATION] - 0 power of 0 is undefined
+[INFO] 13/Mar/2021:18:07:01 482 [calculateExp] [145] [RESULT - EXPONENTIATION] - NaN
+[INFO] 13/Mar/2021:18:07:01 483 [calculateLog] [150] [NATURAL LOGARITHM] - 0.0
+[ERROR] 13/Mar/2021:18:07:01 483 [calculateLog] [155] [ERROR - LOGARITHM] - Logarithm is undefined for negative numbers or zero
+[INFO] 13/Mar/2021:18:07:01 483 [calculateLog] [160] [RESULT - LOGARITHM] - NaN
+[INFO] 13/Mar/2021:18:07:01 483 [calculateLog] [150] [NATURAL LOGARITHM] - -4.0
+[ERROR] 13/Mar/2021:18:07:01 484 [calculateLog] [155] [ERROR - LOGARITHM] - Logarithm is undefined for negative numbers or zero
+[INFO] 13/Mar/2021:18:07:01 484 [calculateLog] [160] [RESULT - LOGARITHM] - NaN
+[INFO] 13/Mar/2021:18:07:01 485 [calculateSqrt] [165] [SQUARE ROOT] - 7.0
+[INFO] 13/Mar/2021:18:07:01 485 [calculateSqrt] [174] [RESULT - SQUARE ROOT] - 2.6457513110645907
+[INFO] 13/Mar/2021:18:07:01 485 [calculateSqrt] [165] [SQUARE ROOT] - 0.0
+[INFO] 13/Mar/2021:18:07:01 485 [calculateSqrt] [174] [RESULT - SQUARE ROOT] - 0.0
+[INFO] 13/Mar/2021:18:07:01 486 [calculateSqrt] [165] [SQUARE ROOT] - 1.5
+[INFO] 13/Mar/2021:18:07:01 486 [calculateSqrt] [174] [RESULT - SQUARE ROOT] - 1.224744871391589
+[INFO] 13/Mar/2021:18:07:01 487 [calculateSqrt] [165] [SQUARE ROOT] - -7.0
+[ERROR] 13/Mar/2021:18:07:01 488 [calculateSqrt] [169] [ERROR - SQUARE ROOT] - Square Root is undefined here for negative numbers
+[INFO] 13/Mar/2021:18:07:01 488 [calculateSqrt] [174] [RESULT - SQUARE ROOT] - NaN
+[ERROR] 13/Mar/2021:18:09:26 840 [main] [33] [Invalid choice] - Entered choice is not a number
+[INFO] 13/Mar/2021:18:09:47 338 [calculateFactorial] [116] [FACTORIAL] - 4
+[INFO] 13/Mar/2021:18:09:47 341 [calculateFactorial] [130] [RESULT - FACTORIAL] - 24.0
+[INFO] 13/Mar/2021:18:09:54 860 [calculateFactorial] [116] [FACTORIAL] - -6
+[ERROR] 13/Mar/2021:18:09:54 860 [calculateFactorial] [121] [ERROR - FACTORIAL] - Factorial is undefined for negative numbers
+[INFO] 13/Mar/2021:18:09:54 860 [calculateFactorial] [130] [RESULT - FACTORIAL] - NaN
+[INFO] 13/Mar/2021:18:10:01 976 [calculateExp] [135] [EXPONENTIATION] - 3.0 , 2.0
+[INFO] 13/Mar/2021:18:10:01 977 [calculateExp] [145] [RESULT - EXPONENTIATION] - 9.0
+[INFO] 13/Mar/2021:18:10:05 500 [calculateSqrt] [165] [SQUARE ROOT] - 5.0
+[INFO] 13/Mar/2021:18:10:05 501 [calculateSqrt] [174] [RESULT - SQUARE ROOT] - 2.23606797749979
+[INFO] 13/Mar/2021:18:10:17 345 [calculateSqrt] [165] [SQUARE ROOT] - 6.8
+[INFO] 13/Mar/2021:18:10:17 345 [calculateSqrt] [174] [RESULT - SQUARE ROOT] - 2.6076809620810595
+[INFO] 13/Mar/2021:18:10:24 567 [calculateFactorial] [116] [FACTORIAL] - -2
+[ERROR] 13/Mar/2021:18:10:24 568 [calculateFactorial] [121] [ERROR - FACTORIAL] - Factorial is undefined for negative numbers
+[INFO] 13/Mar/2021:18:10:24 568 [calculateFactorial] [130] [RESULT - FACTORIAL] - NaN
+[INFO] 13/Mar/2021:18:10:30 337 [calculateFactorial] [116] [FACTORIAL] - 0
+[INFO] 13/Mar/2021:18:10:30 337 [calculateFactorial] [130] [RESULT - FACTORIAL] - 1.0
+[INFO] 13/Mar/2021:18:10:39 245 [calculateExp] [135] [EXPONENTIATION] - 4.0 , 7.0
+[INFO] 13/Mar/2021:18:10:39 246 [calculateExp] [145] [RESULT - EXPONENTIATION] - 16384.0
+[INFO] 13/Mar/2021:18:10:55 830 [calculateLog] [150] [NATURAL LOGARITHM] - 1.0
+[INFO] 13/Mar/2021:18:10:55 831 [calculateLog] [160] [RESULT - LOGARITHM] - 0.0
+[ERROR] 13/Mar/2021:18:11:11 085 [main] [33] [Invalid choice] - Entered choice is not a number
+[INFO] 13/Mar/2021:18:20:17 456 [calculateLog] [150] [NATURAL LOGARITHM] - 9.0
+[INFO] 13/Mar/2021:18:20:17 458 [calculateLog] [160] [RESULT - LOGARITHM] - 2.1972245773362196
+[INFO] 13/Mar/2021:18:20:21 064 [main] [104] [EXIT] - Exiting from Calculator program !!
+[INFO] 13/Mar/2021:18:29:45 806 [calculateSqrt] [165] [SQUARE ROOT] - 7.0
+[INFO] 13/Mar/2021:18:29:45 809 [calculateSqrt] [174] [RESULT - SQUARE ROOT] - 2.6457513110645907
+[INFO] 13/Mar/2021:18:29:45 809 [calculateSqrt] [165] [SQUARE ROOT] - 0.0
+[INFO] 13/Mar/2021:18:29:45 809 [calculateSqrt] [174] [RESULT - SQUARE ROOT] - 0.0
+[INFO] 13/Mar/2021:18:29:45 810 [calculateSqrt] [165] [SQUARE ROOT] - 1.5
+[INFO] 13/Mar/2021:18:29:45 810 [calculateSqrt] [174] [RESULT - SQUARE ROOT] - 1.224744871391589
+[INFO] 13/Mar/2021:18:29:45 811 [calculateSqrt] [165] [SQUARE ROOT] - -9.0
+[ERROR] 13/Mar/2021:18:29:45 812 [calculateSqrt] [169] [ERROR - SQUARE ROOT] - Square Root is undefined here for negative numbers
+[INFO] 13/Mar/2021:18:29:45 812 [calculateSqrt] [174] [RESULT - SQUARE ROOT] - NaN
+[INFO] 13/Mar/2021:18:29:45 813 [calculateFactorial] [116] [FACTORIAL] - 4
+[INFO] 13/Mar/2021:18:29:45 813 [calculateFactorial] [130] [RESULT - FACTORIAL] - 24.0
+[INFO] 13/Mar/2021:18:29:45 814 [calculateFactorial] [116] [FACTORIAL] - 0
+[INFO] 13/Mar/2021:18:29:45 814 [calculateFactorial] [130] [RESULT - FACTORIAL] - 1.0
+[INFO] 13/Mar/2021:18:29:45 815 [calculateFactorial] [116] [FACTORIAL] - -20
+[ERROR] 13/Mar/2021:18:29:45 815 [calculateFactorial] [121] [ERROR - FACTORIAL] - Factorial is undefined for negative numbers
+[INFO] 13/Mar/2021:18:29:45 815 [calculateFactorial] [130] [RESULT - FACTORIAL] - NaN
+[INFO] 13/Mar/2021:18:29:45 816 [calculateFactorial] [116] [FACTORIAL] - 4
+[INFO] 13/Mar/2021:18:29:45 816 [calculateFactorial] [130] [RESULT - FACTORIAL] - 24.0
+[INFO] 13/Mar/2021:18:29:45 817 [calculateFactorial] [116] [FACTORIAL] - 0
+[INFO] 13/Mar/2021:18:29:45 817 [calculateFactorial] [130] [RESULT - FACTORIAL] - 1.0
+[INFO] 13/Mar/2021:18:29:45 817 [calculateFactorial] [116] [FACTORIAL] - -20
+[ERROR] 13/Mar/2021:18:29:45 818 [calculateFactorial] [121] [ERROR - FACTORIAL] - Factorial is undefined for negative numbers
+[INFO] 13/Mar/2021:18:29:45 818 [calculateFactorial] [130] [RESULT - FACTORIAL] - NaN
+[INFO] 13/Mar/2021:18:29:45 819 [calculateLog] [150] [NATURAL LOGARITHM] - 2.0
+[INFO] 13/Mar/2021:18:29:45 819 [calculateLog] [160] [RESULT - LOGARITHM] - 0.6931471805599453
+[INFO] 13/Mar/2021:18:29:45 819 [calculateLog] [150] [NATURAL LOGARITHM] - 0.0
+[ERROR] 13/Mar/2021:18:29:45 820 [calculateLog] [155] [ERROR - LOGARITHM] - Logarithm is undefined for negative numbers or zero
+[INFO] 13/Mar/2021:18:29:45 820 [calculateLog] [160] [RESULT - LOGARITHM] - NaN
+[INFO] 13/Mar/2021:18:29:45 820 [calculateLog] [150] [NATURAL LOGARITHM] - -5.3
+[ERROR] 13/Mar/2021:18:29:45 820 [calculateLog] [155] [ERROR - LOGARITHM] - Logarithm is undefined for negative numbers or zero
+[INFO] 13/Mar/2021:18:29:45 821 [calculateLog] [160] [RESULT - LOGARITHM] - NaN
+[INFO] 13/Mar/2021:18:29:45 821 [calculateExp] [135] [EXPONENTIATION] - 3.0 , 4.0
+[INFO] 13/Mar/2021:18:29:45 821 [calculateExp] [145] [RESULT - EXPONENTIATION] - 81.0
+[INFO] 13/Mar/2021:18:29:45 822 [calculateExp] [135] [EXPONENTIATION] - 2.0 , -3.0
+[INFO] 13/Mar/2021:18:29:45 822 [calculateExp] [145] [RESULT - EXPONENTIATION] - 0.125
+[INFO] 13/Mar/2021:18:29:45 822 [calculateExp] [135] [EXPONENTIATION] - -2.0 , -2.0
+[INFO] 13/Mar/2021:18:29:45 822 [calculateExp] [145] [RESULT - EXPONENTIATION] - 0.25
+[INFO] 13/Mar/2021:18:29:45 823 [calculateExp] [135] [EXPONENTIATION] - 0.0 , 0.0
+[ERROR] 13/Mar/2021:18:29:45 823 [calculateExp] [140] [ERROR - EXPONENTIATION] - 0 power of 0 is undefined
+[INFO] 13/Mar/2021:18:29:45 823 [calculateExp] [145] [RESULT - EXPONENTIATION] - NaN
+[INFO] 13/Mar/2021:18:29:45 824 [calculateExp] [135] [EXPONENTIATION] - 3.0 , 4.0
+[INFO] 13/Mar/2021:18:29:45 824 [calculateExp] [145] [RESULT - EXPONENTIATION] - 81.0
+[INFO] 13/Mar/2021:18:29:45 824 [calculateExp] [135] [EXPONENTIATION] - 2.0 , -3.0
+[INFO] 13/Mar/2021:18:29:45 824 [calculateExp] [145] [RESULT - EXPONENTIATION] - 0.125
+[INFO] 13/Mar/2021:18:29:45 825 [calculateExp] [135] [EXPONENTIATION] - -2.0 , -2.0
+[INFO] 13/Mar/2021:18:29:45 825 [calculateExp] [145] [RESULT - EXPONENTIATION] - 0.25
+[INFO] 13/Mar/2021:18:29:45 825 [calculateLog] [150] [NATURAL LOGARITHM] - 2.0
+[INFO] 13/Mar/2021:18:29:45 825 [calculateLog] [160] [RESULT - LOGARITHM] - 0.6931471805599453
+[INFO] 13/Mar/2021:18:29:45 826 [calculateLog] [150] [NATURAL LOGARITHM] - 5.3
+[INFO] 13/Mar/2021:18:29:45 826 [calculateLog] [160] [RESULT - LOGARITHM] - 1.667706820558076
+[INFO] 13/Mar/2021:18:29:45 826 [calculateExp] [135] [EXPONENTIATION] - 0.0 , 0.0
+[ERROR] 13/Mar/2021:18:29:45 826 [calculateExp] [140] [ERROR - EXPONENTIATION] - 0 power of 0 is undefined
+[INFO] 13/Mar/2021:18:29:45 827 [calculateExp] [145] [RESULT - EXPONENTIATION] - NaN
+[INFO] 13/Mar/2021:18:29:45 827 [calculateLog] [150] [NATURAL LOGARITHM] - 0.0
+[ERROR] 13/Mar/2021:18:29:45 827 [calculateLog] [155] [ERROR - LOGARITHM] - Logarithm is undefined for negative numbers or zero
+[INFO] 13/Mar/2021:18:29:45 827 [calculateLog] [160] [RESULT - LOGARITHM] - NaN
+[INFO] 13/Mar/2021:18:29:45 828 [calculateLog] [150] [NATURAL LOGARITHM] - -4.0
+[ERROR] 13/Mar/2021:18:29:45 828 [calculateLog] [155] [ERROR - LOGARITHM] - Logarithm is undefined for negative numbers or zero
+[INFO] 13/Mar/2021:18:29:45 828 [calculateLog] [160] [RESULT - LOGARITHM] - NaN
+[INFO] 13/Mar/2021:18:29:45 828 [calculateSqrt] [165] [SQUARE ROOT] - 7.0
+[INFO] 13/Mar/2021:18:29:45 829 [calculateSqrt] [174] [RESULT - SQUARE ROOT] - 2.6457513110645907
+[INFO] 13/Mar/2021:18:29:45 829 [calculateSqrt] [165] [SQUARE ROOT] - 0.0
+[INFO] 13/Mar/2021:18:29:45 829 [calculateSqrt] [174] [RESULT - SQUARE ROOT] - 0.0
+[INFO] 13/Mar/2021:18:29:45 829 [calculateSqrt] [165] [SQUARE ROOT] - 1.5
+[INFO] 13/Mar/2021:18:29:45 830 [calculateSqrt] [174] [RESULT - SQUARE ROOT] - 1.224744871391589
+[INFO] 13/Mar/2021:18:29:45 830 [calculateSqrt] [165] [SQUARE ROOT] - -7.0
+[ERROR] 13/Mar/2021:18:29:45 831 [calculateSqrt] [169] [ERROR - SQUARE ROOT] - Square Root is undefined here for negative numbers
+[INFO] 13/Mar/2021:18:29:45 831 [calculateSqrt] [174] [RESULT - SQUARE ROOT] - NaN
+[INFO] 13/Mar/2021:18:31:26 111 [calculateFactorial] [116] [FACTORIAL] - 4
+[INFO] 13/Mar/2021:18:31:26 115 [calculateFactorial] [130] [RESULT - FACTORIAL] - 24.0
+[INFO] 13/Mar/2021:18:31:30 902 [calculateExp] [135] [EXPONENTIATION] - 4.0 , 6.0
+[INFO] 13/Mar/2021:18:31:30 902 [calculateExp] [145] [RESULT - EXPONENTIATION] - 4096.0
+[INFO] 13/Mar/2021:18:31:35 186 [calculateLog] [150] [NATURAL LOGARITHM] - 67.0
+[INFO] 13/Mar/2021:18:31:35 187 [calculateLog] [160] [RESULT - LOGARITHM] - 4.204692619390966
+[INFO] 13/Mar/2021:18:31:42 095 [calculateSqrt] [165] [SQUARE ROOT] - 0.0
+[INFO] 13/Mar/2021:18:31:42 096 [calculateSqrt] [174] [RESULT - SQUARE ROOT] - 0.0
+[INFO] 13/Mar/2021:18:31:49 822 [calculateSqrt] [165] [SQUARE ROOT] - -9.0
+[ERROR] 13/Mar/2021:18:31:49 822 [calculateSqrt] [169] [ERROR - SQUARE ROOT] - Square Root is undefined here for negative numbers
+[INFO] 13/Mar/2021:18:31:49 822 [calculateSqrt] [174] [RESULT - SQUARE ROOT] - NaN
+[INFO] 13/Mar/2021:18:31:56 960 [calculateFactorial] [116] [FACTORIAL] - 0
+[INFO] 13/Mar/2021:18:31:56 961 [calculateFactorial] [130] [RESULT - FACTORIAL] - 1.0
+[INFO] 13/Mar/2021:18:32:03 520 [calculateExp] [135] [EXPONENTIATION] - -4.0 , -2.0
+[INFO] 13/Mar/2021:18:32:03 521 [calculateExp] [145] [RESULT - EXPONENTIATION] - 0.0625
+[INFO] 13/Mar/2021:18:32:13 976 [calculateFactorial] [116] [FACTORIAL] - 4
+[INFO] 13/Mar/2021:18:32:13 977 [calculateFactorial] [130] [RESULT - FACTORIAL] - 24.0
+[INFO] 13/Mar/2021:18:32:23 347 [calculateLog] [150] [NATURAL LOGARITHM] - 8.0
+[INFO] 13/Mar/2021:18:32:23 348 [calculateLog] [160] [RESULT - LOGARITHM] - 2.0794415416798357
+[ERROR] 13/Mar/2021:18:32:26 587 [main] [33] [Invalid choice] - Entered choice is not a number
+[INFO] 13/Mar/2021:19:28:37 187 [calculateSqrt] [165] [SQUARE ROOT] - 7.0
+[INFO] 13/Mar/2021:19:28:37 192 [calculateSqrt] [174] [RESULT - SQUARE ROOT] - 2.6457513110645907
+[INFO] 13/Mar/2021:19:28:37 193 [calculateSqrt] [165] [SQUARE ROOT] - 0.0
+[INFO] 13/Mar/2021:19:28:37 194 [calculateSqrt] [174] [RESULT - SQUARE ROOT] - 0.0
+[INFO] 13/Mar/2021:19:28:37 195 [calculateSqrt] [165] [SQUARE ROOT] - 1.5
+[INFO] 13/Mar/2021:19:28:37 195 [calculateSqrt] [174] [RESULT - SQUARE ROOT] - 1.224744871391589
+[INFO] 13/Mar/2021:19:28:37 198 [calculateSqrt] [165] [SQUARE ROOT] - -9.0
+[ERROR] 13/Mar/2021:19:28:37 198 [calculateSqrt] [169] [ERROR - SQUARE ROOT] - Square Root is undefined here for negative numbers
+[INFO] 13/Mar/2021:19:28:37 199 [calculateSqrt] [174] [RESULT - SQUARE ROOT] - NaN
+[INFO] 13/Mar/2021:19:28:37 201 [calculateFactorial] [116] [FACTORIAL] - 4
+[INFO] 13/Mar/2021:19:28:37 202 [calculateFactorial] [130] [RESULT - FACTORIAL] - 24.0
+[INFO] 13/Mar/2021:19:28:37 203 [calculateFactorial] [116] [FACTORIAL] - 0
+[INFO] 13/Mar/2021:19:28:37 203 [calculateFactorial] [130] [RESULT - FACTORIAL] - 1.0
+[INFO] 13/Mar/2021:19:28:37 205 [calculateFactorial] [116] [FACTORIAL] - -20
+[ERROR] 13/Mar/2021:19:28:37 205 [calculateFactorial] [121] [ERROR - FACTORIAL] - Factorial is undefined for negative numbers
+[INFO] 13/Mar/2021:19:28:37 206 [calculateFactorial] [130] [RESULT - FACTORIAL] - NaN
+[INFO] 13/Mar/2021:19:28:37 207 [calculateFactorial] [116] [FACTORIAL] - 4
+[INFO] 13/Mar/2021:19:28:37 208 [calculateFactorial] [130] [RESULT - FACTORIAL] - 24.0
+[INFO] 13/Mar/2021:19:28:37 209 [calculateFactorial] [116] [FACTORIAL] - 0
+[INFO] 13/Mar/2021:19:28:37 210 [calculateFactorial] [130] [RESULT - FACTORIAL] - 1.0
+[INFO] 13/Mar/2021:19:28:37 212 [calculateFactorial] [116] [FACTORIAL] - -20
+[ERROR] 13/Mar/2021:19:28:37 212 [calculateFactorial] [121] [ERROR - FACTORIAL] - Factorial is undefined for negative numbers
+[INFO] 13/Mar/2021:19:28:37 213 [calculateFactorial] [130] [RESULT - FACTORIAL] - NaN
+[INFO] 13/Mar/2021:19:28:37 215 [calculateLog] [150] [NATURAL LOGARITHM] - 2.0
+[INFO] 13/Mar/2021:19:28:37 216 [calculateLog] [160] [RESULT - LOGARITHM] - 0.6931471805599453
+[INFO] 13/Mar/2021:19:28:37 218 [calculateLog] [150] [NATURAL LOGARITHM] - 0.0
+[ERROR] 13/Mar/2021:19:28:37 219 [calculateLog] [155] [ERROR - LOGARITHM] - Logarithm is undefined for negative numbers or zero
+[INFO] 13/Mar/2021:19:28:37 220 [calculateLog] [160] [RESULT - LOGARITHM] - NaN
+[INFO] 13/Mar/2021:19:28:37 221 [calculateLog] [150] [NATURAL LOGARITHM] - -5.3
+[ERROR] 13/Mar/2021:19:28:37 222 [calculateLog] [155] [ERROR - LOGARITHM] - Logarithm is undefined for negative numbers or zero
+[INFO] 13/Mar/2021:19:28:37 222 [calculateLog] [160] [RESULT - LOGARITHM] - NaN
+[INFO] 13/Mar/2021:19:28:37 223 [calculateExp] [135] [EXPONENTIATION] - 3.0 , 4.0
+[INFO] 13/Mar/2021:19:28:37 224 [calculateExp] [145] [RESULT - EXPONENTIATION] - 81.0
+[INFO] 13/Mar/2021:19:28:37 225 [calculateExp] [135] [EXPONENTIATION] - 2.0 , -3.0
+[INFO] 13/Mar/2021:19:28:37 225 [calculateExp] [145] [RESULT - EXPONENTIATION] - 0.125
+[INFO] 13/Mar/2021:19:28:37 225 [calculateExp] [135] [EXPONENTIATION] - -2.0 , -2.0
+[INFO] 13/Mar/2021:19:28:37 226 [calculateExp] [145] [RESULT - EXPONENTIATION] - 0.25
+[INFO] 13/Mar/2021:19:28:37 227 [calculateExp] [135] [EXPONENTIATION] - 0.0 , 0.0
+[ERROR] 13/Mar/2021:19:28:37 227 [calculateExp] [140] [ERROR - EXPONENTIATION] - 0 power of 0 is undefined
+[INFO] 13/Mar/2021:19:28:37 228 [calculateExp] [145] [RESULT - EXPONENTIATION] - NaN
+[INFO] 13/Mar/2021:19:28:37 229 [calculateExp] [135] [EXPONENTIATION] - 3.0 , 4.0
+[INFO] 13/Mar/2021:19:28:37 230 [calculateExp] [145] [RESULT - EXPONENTIATION] - 81.0
+[INFO] 13/Mar/2021:19:28:37 231 [calculateExp] [135] [EXPONENTIATION] - 2.0 , -3.0
+[INFO] 13/Mar/2021:19:28:37 231 [calculateExp] [145] [RESULT - EXPONENTIATION] - 0.125
+[INFO] 13/Mar/2021:19:28:37 232 [calculateExp] [135] [EXPONENTIATION] - -2.0 , -2.0
+[INFO] 13/Mar/2021:19:28:37 233 [calculateExp] [145] [RESULT - EXPONENTIATION] - 0.25
+[INFO] 13/Mar/2021:19:28:37 234 [calculateLog] [150] [NATURAL LOGARITHM] - 2.0
+[INFO] 13/Mar/2021:19:28:37 235 [calculateLog] [160] [RESULT - LOGARITHM] - 0.6931471805599453
+[INFO] 13/Mar/2021:19:28:37 236 [calculateLog] [150] [NATURAL LOGARITHM] - 5.3
+[INFO] 13/Mar/2021:19:28:37 237 [calculateLog] [160] [RESULT - LOGARITHM] - 1.667706820558076
+[INFO] 13/Mar/2021:19:28:37 240 [calculateExp] [135] [EXPONENTIATION] - 0.0 , 0.0
+[ERROR] 13/Mar/2021:19:28:37 241 [calculateExp] [140] [ERROR - EXPONENTIATION] - 0 power of 0 is undefined
+[INFO] 13/Mar/2021:19:28:37 242 [calculateExp] [145] [RESULT - EXPONENTIATION] - NaN
+[INFO] 13/Mar/2021:19:28:37 243 [calculateLog] [150] [NATURAL LOGARITHM] - 0.0
+[ERROR] 13/Mar/2021:19:28:37 244 [calculateLog] [155] [ERROR - LOGARITHM] - Logarithm is undefined for negative numbers or zero
+[INFO] 13/Mar/2021:19:28:37 244 [calculateLog] [160] [RESULT - LOGARITHM] - NaN
+[INFO] 13/Mar/2021:19:28:37 245 [calculateLog] [150] [NATURAL LOGARITHM] - -4.0
+[ERROR] 13/Mar/2021:19:28:37 245 [calculateLog] [155] [ERROR - LOGARITHM] - Logarithm is undefined for negative numbers or zero
+[INFO] 13/Mar/2021:19:28:37 246 [calculateLog] [160] [RESULT - LOGARITHM] - NaN
+[INFO] 13/Mar/2021:19:28:37 246 [calculateSqrt] [165] [SQUARE ROOT] - 7.0
+[INFO] 13/Mar/2021:19:28:37 247 [calculateSqrt] [174] [RESULT - SQUARE ROOT] - 2.6457513110645907
+[INFO] 13/Mar/2021:19:28:37 247 [calculateSqrt] [165] [SQUARE ROOT] - 0.0
+[INFO] 13/Mar/2021:19:28:37 248 [calculateSqrt] [174] [RESULT - SQUARE ROOT] - 0.0
+[INFO] 13/Mar/2021:19:28:37 249 [calculateSqrt] [165] [SQUARE ROOT] - 1.5
+[INFO] 13/Mar/2021:19:28:37 251 [calculateSqrt] [174] [RESULT - SQUARE ROOT] - 1.224744871391589
+[INFO] 13/Mar/2021:19:28:37 252 [calculateSqrt] [165] [SQUARE ROOT] - -7.0
+[ERROR] 13/Mar/2021:19:28:37 253 [calculateSqrt] [169] [ERROR - SQUARE ROOT] - Square Root is undefined here for negative numbers
+[INFO] 13/Mar/2021:19:28:37 253 [calculateSqrt] [174] [RESULT - SQUARE ROOT] - NaN
