@@ -30,7 +30,7 @@ public class ScientificCalculator {
             }
             catch (InputMismatchException e)
             {
-                logger.error("Invalid choice, Entered choice is not a number");
+                logger.error("[Invalid choice] - Entered choice is not a number");
                 return;
             }
 
@@ -45,7 +45,7 @@ public class ScientificCalculator {
                     }
                     catch (InputMismatchException e)
                     {
-                        logger.error("Invalid number, Entered number is not of type Integer");
+                        logger.error("[Invalid number] - Entered number is not of type Integer");
                         return;
                     }
                     System.out.println("RESULT : Factorial of "+num+" = " + cal.calculateFactorial(num));
@@ -62,7 +62,7 @@ public class ScientificCalculator {
                         power = sc.nextInt();
                     }catch (InputMismatchException e)
                     {
-                        logger.error("Invalid input, Entered base or power is not of type Double");
+                        logger.error("[Invalid input] - Entered base or power is not of type Double");
                         return;
                     }
 
@@ -78,7 +78,7 @@ public class ScientificCalculator {
                         number = sc.nextDouble();
                     }catch (InputMismatchException e)
                     {
-                        logger.error("Invalid number, Entered number is not of type Double");
+                        logger.error("[Invalid number] - Entered number is not of type Double");
                         return;
                     }
                     System.out.println("RESULT : Natural Logarithm (base e) of "+number+" = "+ cal.calculateLog(number));
@@ -92,7 +92,7 @@ public class ScientificCalculator {
                     try {
                         numVal = sc.nextDouble();
                     }catch (InputMismatchException e){
-                        logger.error("Invalid number, Entered number is not of type Double");
+                        logger.error("[Invalid number] - Entered number is not of type Double");
                         return;
                     }
                     System.out.println("RESULT : Square Root of "+numVal+ " = " + cal.calculateSqrt(numVal));
@@ -101,7 +101,7 @@ public class ScientificCalculator {
                     break;
 
                 default:
-                    logger.info("Exiting from Calculator program !! ");
+                    logger.info("[EXIT] - Exiting from Calculator program !! ");
                     System.out.println("Exiting.....");
                     return;
             }

@@ -2,11 +2,11 @@
 <Configuration status="INFO">
     <Appenders>
         <File name="FileAppender" fileName="Calculator.log" immediateFlush="false" append="true">
-            <PatternLayout pattern="[%-5level] %d{dd/MMM/yyy:HH:mm:ss SSS} [ %l ] %msg%n"/>
+            <PatternLayout pattern="[%level] %d{dd/MMM/yyy:HH:mm:ss SSS} [%M] [%L] %msg%n"/>
         </File>
 
         <Console name="ConsoleAppender" target="SYSTEM_OUT">
-            <PatternLayout pattern="[%-5level ] %d{dd/MMM/yyy:HH:mm:ss SSS} [ %l ] %msg%n"/>
+            <PatternLayout pattern="[%level] %d{dd/MMM/yyy:HH:mm:ss SSS} [%M] [%L] %msg%n"/>
         </Console>
     </Appenders>
     <Loggers>
